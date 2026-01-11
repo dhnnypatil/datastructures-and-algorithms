@@ -35,4 +35,24 @@ compilation of dsa questions and solutions through leetcode.
 |  |
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Array
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/0085-maximal-rectangle) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/0085-maximal-rectangle) |
+## Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/0085-maximal-rectangle) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/0085-maximal-rectangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
