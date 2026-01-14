@@ -39,6 +39,7 @@ compilation of dsa questions and solutions through leetcode.
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/0085-maximal-rectangle) |
+| [3454-separate-squares-ii](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/3454-separate-squares-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -55,4 +56,16 @@ compilation of dsa questions and solutions through leetcode.
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/0085-maximal-rectangle) |
+## Binary Search
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/3454-separate-squares-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/3454-separate-squares-ii) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
