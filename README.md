@@ -39,6 +39,7 @@ compilation of dsa questions and solutions through leetcode.
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/0085-maximal-rectangle) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [3454-separate-squares-ii](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/3454-separate-squares-ii) |
 ## Dynamic Programming
 |  |
@@ -52,6 +53,7 @@ compilation of dsa questions and solutions through leetcode.
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/0085-maximal-rectangle) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -59,6 +61,7 @@ compilation of dsa questions and solutions through leetcode.
 ## Binary Search
 |  |
 | ------- |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [3454-separate-squares-ii](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/3454-separate-squares-ii) |
 ## Segment Tree
 |  |
@@ -68,4 +71,8 @@ compilation of dsa questions and solutions through leetcode.
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/3454-separate-squares-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 <!---LeetCode Topics End-->
