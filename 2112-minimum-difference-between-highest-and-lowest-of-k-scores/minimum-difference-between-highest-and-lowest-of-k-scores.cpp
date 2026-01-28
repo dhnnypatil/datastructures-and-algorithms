@@ -1,15 +1,12 @@
 class Solution {
 public:
     int minimumDifference(vector<int>& nums, int k) {
-        if (k == 1) return 0;
-
+        int n = nums.size();
         sort(nums.begin(), nums.end());
-
-        int m = INT_MAX;
-        for(int i=0; i<=nums.size()-k; i++){
-            int curr_diff = nums[i + k - 1] - nums[i];
-            m = min(m, curr_diff);
+        int ans = nums[k - 1] - nums[0];
+        for(int i = 0; i + k <= n; i ++){
+            ans = min(ans, nums[i + k - 1] - nums[i]);
         }
-        return m;
+        return ans;
     }
 };
