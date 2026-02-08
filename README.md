@@ -22,10 +22,12 @@ compilation of dsa questions and solutions through leetcode.
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/0110-balanced-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/0110-balanced-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -34,6 +36,7 @@ compilation of dsa questions and solutions through leetcode.
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/0110-balanced-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Array
 |  |
