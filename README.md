@@ -18,6 +18,7 @@ compilation of dsa questions and solutions through leetcode.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0693-binary-number-with-alternating-bits](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/0756-pyramid-transition-matrix) |
 ## Tree
 |  |
