@@ -6,10 +6,12 @@ compilation of dsa questions and solutions through leetcode.
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0756-pyramid-transition-matrix](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/0756-pyramid-transition-matrix) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0756-pyramid-transition-matrix](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/0756-pyramid-transition-matrix) |
 ## Backtracking
 |  |
@@ -79,4 +81,8 @@ compilation of dsa questions and solutions through leetcode.
 |  |
 | ------- |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
