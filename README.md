@@ -13,6 +13,7 @@ compilation of dsa questions and solutions through leetcode.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0756-pyramid-transition-matrix](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/0756-pyramid-transition-matrix) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Backtracking
 |  |
 | ------- |
@@ -85,4 +86,8 @@ compilation of dsa questions and solutions through leetcode.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+## Greedy
+|  |
+| ------- |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 <!---LeetCode Topics End-->
