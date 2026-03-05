@@ -45,12 +45,14 @@ compilation of dsa questions and solutions through leetcode.
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/0085-maximal-rectangle) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [3454-separate-squares-ii](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/3454-separate-squares-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/0085-maximal-rectangle) |
 ## Stack
 |  |
@@ -90,4 +92,8 @@ compilation of dsa questions and solutions through leetcode.
 |  |
 | ------- |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
