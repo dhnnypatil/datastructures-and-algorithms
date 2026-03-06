@@ -1,16 +1,11 @@
 class Solution {
 public:
-    bool checkOnesSegment(string s) {
-        bool seenZero = false;
-
-        for(char c : s){
-            if(c == '0'){
-                seenZero = true;
-            }else if(seenZero){
-                return false;
-            }
+    bool checkOnesSegment(string s){
+    for(int i=0; i<s.length()-1;i++){
+        if(s[i]=='0'&& s[i+1]=='1'){
+            return false;
         }
-
-        return true;
+    }
+    return true ;
     }
 };
