@@ -48,6 +48,7 @@ compilation of dsa questions and solutions through leetcode.
 | [0053-maximum-subarray](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/0085-maximal-rectangle) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3454-separate-squares-ii](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/3454-separate-squares-ii) |
 ## Dynamic Programming
 |  |
@@ -71,6 +72,7 @@ compilation of dsa questions and solutions through leetcode.
 |  |
 | ------- |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3454-separate-squares-ii](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/3454-separate-squares-ii) |
 ## Segment Tree
 |  |
@@ -92,8 +94,17 @@ compilation of dsa questions and solutions through leetcode.
 |  |
 | ------- |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/0053-maximum-subarray) |
+## Math
+|  |
+| ------- |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 <!---LeetCode Topics End-->
