@@ -48,6 +48,7 @@ compilation of dsa questions and solutions through leetcode.
 | [0053-maximum-subarray](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/0085-maximal-rectangle) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3454-separate-squares-ii](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/3454-separate-squares-ii) |
 ## Dynamic Programming
@@ -64,6 +65,7 @@ compilation of dsa questions and solutions through leetcode.
 | ------- |
 | [0085-maximal-rectangle](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/0085-maximal-rectangle) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -86,6 +88,7 @@ compilation of dsa questions and solutions through leetcode.
 |  |
 | ------- |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Sliding Window
 |  |
 | ------- |
@@ -102,9 +105,15 @@ compilation of dsa questions and solutions through leetcode.
 ## Math
 |  |
 | ------- |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+## Sorting
+|  |
+| ------- |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 <!---LeetCode Topics End-->
