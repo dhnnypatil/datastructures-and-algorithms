@@ -13,11 +13,13 @@ compilation of dsa questions and solutions through leetcode.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0756-pyramid-transition-matrix](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/0756-pyramid-transition-matrix) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Backtracking
 |  |
 | ------- |
 | [0756-pyramid-transition-matrix](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/0756-pyramid-transition-matrix) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Bit Manipulation
 |  |
 | ------- |
