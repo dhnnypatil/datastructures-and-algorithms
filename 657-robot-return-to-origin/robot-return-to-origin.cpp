@@ -3,24 +3,14 @@ public:
     bool judgeCircle(string moves) {
         int x = 0;
         int y = 0;
-        bool ans = false;
-
-        for(char m : moves){
-            if(m == 'U'){
-                y++;
-            }else if(m == 'D'){
-                y--;
-            }else if(m == 'R'){
-                x++;
-            }else if(m == 'L'){
-                x--;
-            }
+        
+        for (char move : moves) {
+            if (move == 'U') y++;
+            else if (move == 'D') y--;
+            else if (move == 'L') x--;
+            else if (move == 'R') x++;
         }
-
-        if(x == 0 && y == 0){
-            ans = true;
-        }
-
-        return ans;
+        
+        return x == 0 && y == 0;
     }
 };
