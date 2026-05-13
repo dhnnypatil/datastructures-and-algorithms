@@ -8,6 +8,7 @@ compilation of dsa questions and solutions through leetcode.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0756-pyramid-transition-matrix](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/0756-pyramid-transition-matrix) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/1674-minimum-moves-to-make-array-complementary) |
 ## String
 |  |
 | ------- |
@@ -50,6 +51,7 @@ compilation of dsa questions and solutions through leetcode.
 | [0053-maximum-subarray](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/0085-maximal-rectangle) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/2553-separate-the-digits-in-an-array) |
@@ -93,6 +95,7 @@ compilation of dsa questions and solutions through leetcode.
 |  |
 | ------- |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/dhnnypatil/datastructures-and-algorithms/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Sliding Window
 |  |
